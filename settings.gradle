@@ -1,0 +1,3 @@
+include ':AIDLServer'
+include ':AIDLClient'
+rootProject.name = "AIDLDemo"
